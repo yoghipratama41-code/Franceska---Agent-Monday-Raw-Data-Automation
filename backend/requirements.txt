@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+gspread
+selenium
+webdriver-manager
+google-auth
